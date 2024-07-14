@@ -1,6 +1,6 @@
 # Analyzing American baby name trends
 
-This project analyzes American baby name trends using PostgreSQL and Python. The dataset encompasses over a century of baby names, enabling us to uncover fascinating patterns and trends in naming practices across the United States.
+This project analyzes American baby name trends using PostgreSQL and Python. The dataset encompasses over a century of baby names, enabling us to uncover interesting patterns and trends in naming practices across the United States.
 
 ## Project Overview
 
